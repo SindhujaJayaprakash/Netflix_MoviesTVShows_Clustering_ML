@@ -39,9 +39,9 @@
 **Feature Engineering:**
 
 1. Create new meaningful features, such as:
-Content age: current_year - release_year.
-Genre count: Number of genres associated with each content.
-
+   Content age: current_year - release_year.
+   Genre count: Number of genres associated with each content.
+   
 2.Transform categorical variables into numerical representations suitable for clustering algorithms.
 
 **Clustering Model Selection:**
